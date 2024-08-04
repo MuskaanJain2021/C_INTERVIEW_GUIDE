@@ -1,7 +1,7 @@
 # C_INTERVIEW_GUIDE
 
 ## BITWISE-OPERATIONS
-1.  Write a prorgram for the following one.
+1.  Write a program for the following one.
       a) Set a bit      b) Clear a bit    c) Toggle a  bit  
 
 2. WAP to find the given number is even or odd using bitwise operators.
